@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://multy.me/jLMa5/$1"
+ }
+  ]
+}
